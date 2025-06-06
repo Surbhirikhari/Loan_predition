@@ -34,4 +34,10 @@ The model is trained on a loan dataset (`loan predictor.csv`) containing feature
 ## How to Run
 
 1. Clone this repository:
-  
+   '''bash 
+  https://github.com/Surbhirikhari/Loan_predition/tree/main
+
+2. Run the Streamlit app:
+   streamlit run app.py
+ bash''' 
+   
