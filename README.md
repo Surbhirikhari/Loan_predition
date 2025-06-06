@@ -32,7 +32,7 @@ The model is trained on a loan dataset (`loan predictor.csv`) containing feature
 - LoanAmount
 - Loan_Amount_Term (in days)
 - Property_Area
-
+- Loan_approved(0,1)
 ---
 
 ## How to Run
