@@ -5,9 +5,9 @@ This is a Streamlit web app that predicts whether a loan will be approved based 
 ---
 ## App Preview
 
-<img src="asset/img1.png"  width="200"/>
-<img src="asset/img2.png"  width="200"/>
-<img src="asset/img3.png"  width="200"/>
+<img src="asset/img1.png"  width="400"/>
+<img src="asset/img2.png"  width="400"/>
+<img src="asset/img3.png"  width="400"/>
 
 ## Features
 
