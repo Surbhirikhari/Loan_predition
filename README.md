@@ -5,9 +5,9 @@ This is a Streamlit web app that predicts whether a loan will be approved based 
 ---
 ## App Preview
 
-![Loan Approval App Screenshot](assets/img1.png)
-![Loan Approval App Screenshot](assets/img2.png)
-![Loan Approval App Screenshot](assets/img3.png)
+![Loan Approval App Screenshot](asset/img1.png)
+![Loan Approval App Screenshot](asset/img2.png)
+![Loan Approval App Screenshot](asset/img3.png)
 
 ## Features
 
